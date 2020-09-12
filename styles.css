@@ -1,0 +1,98 @@
+body{
+    color: black;
+    background-color:#e7e497;
+    margin: 5px;
+    padding:15px;
+    height:200;
+    width:95%;
+    font-size:20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url("cars\ hub.jpg");
+}
+p{
+    color:#173F5F;
+    box-sizing: content-box;
+    }
+    .container {
+        position:left;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        background-repeat: no-repeat;
+        background-size: cover;
+        }
+    h1{
+        display:inherit;
+        justify-content: space-around;
+        text-align:center;
+        font-size:50px;
+        color:red;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    div{
+        display: inline-block;
+    }
+    img {
+        float: left;
+        margin: 0px 10px 20px 0px;
+        padding: 10px;
+        }
+        div {
+            display: flex;  
+            flex-wrap: wrap;
+          }
+          footer{
+             
+              align-items: center;
+              float:center;
+              color:green;
+          }
+          p3 img{
+              float:right;
+              margin: 0px 10px 20px 0px;
+              padding:10px
+          }
+          h2{
+              Color:#6B6B6B;
+              font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+              text-align:justify;
+              align-content: center;
+              display: flex;
+              flex-wrap: wrap;
+              padding-left: inherit;
+          }
+          h3{
+              color:green;
+          }
+          h4{
+              color:rebeccapurple;
+          }
+          li{
+              display:block;
+              text-align: left;
+          }
+          list{
+              display: block;
+          }
+          footer>p{
+              color:green;
+          }
+          first{
+              text-decoration-style: solid;
+              float:left;
+          }
+          nav ul{
+              float:right;
+              margin-right: -10px;
+              padding:40px 40px 40px;
+          }
+          nav ul li{
+              display:inline;
+              padding:15px;
+              text-align:justify;
+              font-family:Arial, Helvetica, sans-serif;
+              text-decoration:none;
+          }
+          
+          
